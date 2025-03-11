@@ -8,10 +8,11 @@
 - use only core C++ language (no compiler extensions)
 - only C++ modules
 - not use any library (including std libraries implementation, no stl)
-- use latest C++ standard (last standard version release year + 2, not this is C++23, in 2028 change to C++26)
+- use latest C++ standard (last standard version release year + 2, now this is C++23, in 2028 change to C++26)
 - use only CMake as building tool
 - sure to exclude linking with std libraries
 - support only windows and linux os (for now)
+- no silent library linking by compilers 
 - support only AMD64 platform
 - no backward compatibility (main branches would break a lot)
 - adjasted SEMVER versioning
