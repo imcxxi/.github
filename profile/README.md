@@ -26,7 +26,7 @@
 - **`c`**: C library implementation (no std related, namespace c, just extern "C" still use modules)
 - **`cxx`**: C++ core library implementation (no std related, namespace cxx)
 - **`ruin`**: game engine
-- **`pog`: _Parts of Gore_ game based on `ruin` engine
+- **`pog`**: _Parts of Gore_ game based on `ruin` engine
 
 
 <!--
